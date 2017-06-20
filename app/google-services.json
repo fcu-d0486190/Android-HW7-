@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "481116845675",
+    "firebase_url": "https://android-fuc-oop.firebaseio.com",
+    "project_id": "android-fuc-oop",
+    "storage_bucket": "android-fuc-oop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481116845675:android:1afbf251357d36c1",
+        "android_client_info": {
+          "package_name": "com.bobo.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481116845675-gi5kncbblb045pr4cga8jdsrhalkf1ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bobo.hotel",
+            "certificate_hash": "de982ad15d210e045f6e393d8924f08af23b9861"
+          }
+        },
+        {
+          "client_id": "481116845675-5s4t8aca2d9ms4i2lgq8f7kae7qua6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilbRlJdXm3DuCO5LQ0Lc6DPGy80yjij8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481116845675-5s4t8aca2d9ms4i2lgq8f7kae7qua6br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481116845675:android:4a7c3a38384cd249",
+        "android_client_info": {
+          "package_name": "com.bobo.hw7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481116845675-96e2hfe1942f2rf4id07bkt63bv7hiie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bobo.hw7",
+            "certificate_hash": "de982ad15d210e045f6e393d8924f08af23b9861"
+          }
+        },
+        {
+          "client_id": "481116845675-jrmsm8vn72lr2aicvd6gaftllaa99df1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bobo.hw7",
+            "certificate_hash": "d7aa2e3eeafaf066d91b6089491ce86ac3b0ccb0"
+          }
+        },
+        {
+          "client_id": "481116845675-5s4t8aca2d9ms4i2lgq8f7kae7qua6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilbRlJdXm3DuCO5LQ0Lc6DPGy80yjij8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481116845675-5s4t8aca2d9ms4i2lgq8f7kae7qua6br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
